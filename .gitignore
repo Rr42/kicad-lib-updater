@@ -1,0 +1,5 @@
+# Files to ignore
+kicad-symbols/*
+kicad-packages3d/*
+kicad-footprints/*
+kicad-templates/*
