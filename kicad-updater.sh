@@ -13,6 +13,7 @@
 # Templates : https://github.com/kicad/kicad-templates
 # Unstall command: sudo xargs rm < $source/install_manifest.txt
 # Prep before running updates
+# Save initial dir location
 TOP_DIR=`pwd`
 # Updating symbols
 printf "[KiCAD-updater] Updating symbols"
